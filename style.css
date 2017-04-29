@@ -1,0 +1,11 @@
+#guess {
+  width: 50px;
+}
+
+#guess:focus {
+  outline: none;
+}
+
+#response, #numGuesses, #history {
+  padding-top: 10px;
+}
